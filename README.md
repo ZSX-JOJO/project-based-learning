@@ -1,6 +1,6 @@
 # Project Based Learning
 
-[![Gitter](https://badges.gitter.im/practical-tutorials/community.svg)](https://gitter.im/practical-tutorials/community?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)
+[![Gitter](https://badges.gitter.im/practical-tutorials/community.svg)](https://gitter.im/practical-tutorials/community?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge) [![Link rot sweep](https://github.com/practical-tutorials/project-based-learning/actions/workflows/link-rot.yml/badge.svg)](https://github.com/practical-tutorials/project-based-learning/actions/workflows/link-rot.yml)
 
 A list of programming tutorials in which aspiring software developers learn how to build an application from scratch. These tutorials are divided into different primary programming languages. Tutorials may involve multiple technologies and languages.
 
@@ -132,6 +132,7 @@ To get started, simply fork this repo. Please refer to [CONTRIBUTING.md](CONTRIB
   - [Part 5 - Topic abstraction](https://codepr.github.io/posts/sol-mqtt-broker-p5)
   - [Part 6 - Handlers](https://codepr.github.io/posts/sol-mqtt-broker-p6)
   - [Bonus - Multithreading](https://codepr.github.io/posts/sol-mqtt-broker-bonus)
+- [Networking from Scratch](https://github.com/TanayK07/networking-from-scratch)
 
 ### OpenGL:
 
@@ -211,9 +212,7 @@ To get started, simply fork this repo. Please refer to [CONTRIBUTING.md](CONTRIB
 ## JavaScript:
 
 - [Build 30 things in 30 days with 30 tutorials](https://javascript30.com)
-- [Build an App in Pure JS](https://medium.com/codingthesmartway-com-blog/pure-javascript-building-a-real-world-application-from-scratch-5213591cfcd6)
 - [Build a Jupyter Notebook Extension](https://link.medium.com/wWUO7TN8SS)
-- [Build a TicTacToe Game with JavaScript](https://medium.com/javascript-in-plain-english/build-tic-tac-toe-game-using-javascript-3afba3c8fdcc)
 - [Build a Simple Weather App With Vanilla JavaScript](https://webdesign.tutsplus.com/tutorials/build-a-simple-weather-app-with-vanilla-javascript--cms-33893)
 - [Build a Todo List App in JavaScript](https://github.com/dwyl/javascript-todo-list-tutorial)
 
@@ -511,7 +510,6 @@ To get started, simply fork this repo. Please refer to [CONTRIBUTING.md](CONTRIB
 
 - [Build a Simple Interpreter](https://ruslanspivak.com/lsbasi-part1/)
 - [Build a Simple Blockchain in Python](https://hackernoon.com/learn-blockchains-by-building-one-117428612f46)
-- [Write a NoSQL Database in Python](https://jeffknupp.com/blog/2014/09/01/what-is-a-nosql-database-learn-by-writing-one-in-python/)
 - [Building a Gas Pump Scanner with OpenCV/Python/iOS](https://hackernoon.com/building-a-gas-pump-scanner-with-opencv-python-ios-116fe6c9ae8b)
 - [Build a Distributed Streaming System with Python and Kafka](https://codequs.com/p/S14jQ5UyG/build-a-distributed-streaming-system-with-apache-kafka-and-python)
 - [Writing a basic x86-64 JIT compiler from scratch in stock Python](https://csl.name/post/python-jit/)
